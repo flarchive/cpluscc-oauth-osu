@@ -1,0 +1,39 @@
+{
+    "name": "cpluscc/oauth-osu",
+    "description": "Log in to your Flarum forum with osu!",
+    "keywords": [
+        "flarum", "amazon", "sso", "oauth", "login"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/cpluscc/flarum-ext-oauth-osu/issues",
+        "source": "https://github.com/cpluscc/flarum-ext-oauth-osu"
+    },
+    "require": {
+        "flarum/core": "^1.2.0",
+        "fof/oauth": "^1.3.0",
+        "cpluscc/oauth2-osu": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "cpluscc"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "cpluscc\\OAuthOsu\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Log In With osu！",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-amazon",
+                "backgroundColor": "#0072e3",
+                "color": "#fff"
+            }
+        }
+    }
+}
