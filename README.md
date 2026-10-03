@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of cpluscc/oauth-osu.** Not for installation: use [Packagist](https://packagist.org/packages/cpluscc/oauth-osu) or the [upstream repository](https://github.com/cpluscc/flarum-ext-oauth-osu).
 
-**0** versions archived · Latest: [`2.1`](https://github.com/flarchive/cpluscc-oauth-osu/tree/archive/v2.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`2.1`](https://github.com/flarchive/cpluscc-oauth-osu/tree/archive/v2.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.1.4` | 2023-09-29 | `^1.2.0` | [Browse](https://github.com/flarchive/cpluscc-oauth-osu/tree/archive/v1.1.4) |
+| `2.1` | 2023-09-29 | `^1.2.0` | [Browse](https://github.com/flarchive/cpluscc-oauth-osu/tree/archive/v2.1) |
 
 Catalog entry: [packages/cpluscc-oauth-osu.json](https://github.com/flarchive/archive-index/blob/main/packages/cpluscc-oauth-osu.json)
 
